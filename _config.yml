@@ -16,3 +16,5 @@ markdown: kramdown
 permalink: /:year/:month/:title
 gems:
   - jekyll-redirect-from
+  - mysql2
+  - sequel
