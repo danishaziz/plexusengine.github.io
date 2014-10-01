@@ -1,33 +1,113 @@
 ---
 layout: default
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author.display_name }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+<style>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+.col {
+    display:inline-block;
+    vertical-align: top
+  }
 
+.post {
+    width: 70%;
+}
 
+.sidebar {
+    width: 20%;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.testimonial-quote {
+    display: inline-block;
+    width: 55%;
+    vertical-align: top;
+    font-size: small;
+}
+.testimonial-name {
+    color: #E45845;
+}
+.testimonial-title{
+    font-size: smaller;
+}
 
+</style>
 
-    <div id="disqus_thread"></div>
-    <script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'getlittlebird'; // required: replace example with your forum shortname
+<div>
 
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-    
+    <div class="post col ">
+        <header class="post-header">
+            <h1 class="post-title">{{ page.title }}</h1>
+            <p class="post-meta">
+                {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author.display_name }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+            </p>
+        </header>
+        <div>
+            <article class="post-content">
+                {{ content }}
+            </article>
+<!--
+            <div id="disqus_thread" ></div>
+            <script type="text/javascript">
+                /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                var disqus_shortname = 'getlittlebird'; // required: replace example with your forum shortname
+
+                /* * * DON'T EDIT BELOW THIS LINE * * */
+                (function() {
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+            </script>
+            <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+--> 
+        </div>
+
+    </div>
+
+    <div class="col sidebar">
+        <div class="heading"><h5>People are talking...</h5></div>    
+        <div>
+            <img src="/wp-content/uploads/2013/08/tst_michaelbrito.png" alt="Michael Brito" />
+            <div class="testimonial-quote">
+                 "You (at Little Bird) don't need to worry about competitors, no one else has anything like this. This looks incredible."
+            </div>
+            <div class="testimonial-name">
+                 Michael Brito
+            </div>
+            <div class="testimonial-title">
+                 Global leader in Advocate Marketing
+            </div>
+        </div>
+        <div>
+            <img src="/wp-content/uploads/2014/07/tst_mattheinz.png" alt="Matt Heinz" />
+            <div class="testimonial-quote">
+                 "I had high expectations for Little Bird. Safe to say they have been exceeded."
+            </div>
+            <div class="testimonial-name">
+                 Matt Heinz
+            </div>
+            <div class="testimonial-title">
+                 President, Heinz Marketing
+            </div>
+        </div>
+        <div>
+            <img src="/wp-content/uploads/2014/07/tst_markcuban.png" alt="Mark Cuban" />
+            <div class="testimonial-quote">
+                 "This is a game changer for social media intelligence."
+            </div>
+            <div class="testimonial-name">
+                 Mark Cuban
+            </div>
+            <div class="testimonial-title">
+                 Dallas Mavericks Owner & Lead Investor
+            </div>
+        </div>
+    </div>
 </div>
+
+
+
+
+
