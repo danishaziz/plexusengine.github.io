@@ -1,5 +1,5 @@
 ---
-layout: recent_works
+layout: page
 status: publish
 published: true
 title: API Integration
@@ -24,17 +24,17 @@ comments: []
 <span style="color:#E45845;">Little Bird API: Social Intelligence at the Point of Action</span><br />
 </h4>
 <p>Little Bird’s API technology can be integrated into your applications or data analysis in three different ways. Each API endpoint has been built for scalability. </p>
-<hr noshade size="1" />
+
 <div style="text-transform:uppercase; font-weight:700;">Influencer API</div>
 <p>Influence marketing isn’t about finding the right lure; it’s about finding the right pond. With Little Bird’s Influencer API you can tap into a set of peer-validated influencers and experts on any topic. Instead of finding people who are talking about that topic, our Influencer API returns a set of people and organizations at the center of a topical community of connections, across multiple social networks.</p>
 <p>Use cases: paid media optimization, corporate intranet recommendations, third-party applications</p>
-<hr noshade size="1" />
+
 <div style="text-transform:uppercase; font-weight:700;">Hot Content API</div>
 <p>Filter the river of news and get a jump on competitors. Little Bird's Hot Content API returns a JSON feed of the most popular recent content shared and reshared by leading experts and influencers on any topic.</p>
 <p>Use cases: publishing, monitoring, research systems</p>
-<hr noshade size="1" />
+
 <div style="text-transform:uppercase; font-weight:700;">Network Analysis as a Service</div>
 <p>Unlock insights—and business value—from multiple data streams with Little Bird's Network Analysis as a Service API. Our network-agnostic API can map, analyze and visualize any network of linked entities.</p>
 <p>Use cases: CRM, social listening data, other connected objects</p>
-<hr noshade size="1" />
+
 <p><a href="/contact/">Contact us</a> to learn how the Little Bird API can help your organization.</p>

@@ -1,5 +1,5 @@
 ---
-layout: recent_works
+layout: page
 status: publish
 published: true
 title: Premium Services
