@@ -18,6 +18,12 @@ categories: []
 tags: []
 comments: []
 ---
+
+<style>
+.five.columns{
+  width: 200px;
+}
+</style>
 <div class="page-content clearfix">
             
           <h1>The Little Bird Story</h1>
@@ -27,7 +33,7 @@ comments: []
 <h1>Meet the Little Birds</h1>
 <ul class="team clearfix">
 
-      <li class="four columns">
+      <li class="five columns">
 
         
         <span class="img-wrap">
@@ -64,7 +70,7 @@ Little Bird Founder and CEO Marshall Kirkpatrick began his career as a ground-br
         </div>
 
       </li>
-            <li class="four columns">
+            <li class="five columns">
 
         
         <span class="img-wrap">
@@ -99,7 +105,7 @@ Passionate, curious and on top of the details, Mikalina keeps things humming alo
         </div>
 
       </li>
-            <li class="four columns">
+            <li class="five columns">
 
         
         <span class="img-wrap">
@@ -136,7 +142,7 @@ With 15 years of experience as a start-­up executive, Ben is a strategic thinke
         </div>
 
       </li>
-            <li class="four columns">
+            <li class="five columns">
 
         
         <span class="img-wrap">
@@ -173,44 +179,8 @@ Michael Jones, aka MJ, brings tremendous energy, experience and technical expert
         </div>
 
       </li>
-            <li class="four columns">
 
-        
-        <span class="img-wrap">
-
-                    
-          <img src="http://www.getlittlebird.com/wp-content/uploads/2014/04/p_carmen_square.jpg" alt="" class="rounded scale-with-grid">
-
-          
-        </span>
-
-        <div class="name">
-Carmen <span>Hill</span>
-<em>Director of Marketing</em>
-</div>
-
-<div style="font-size:13px;">
-A B2B marketer with a passion for content and social media, Carmen comes to Little Bird from Babcock &amp; Jenkins, where she built an award-winning content marketing practice. Carmen is focused on brand, demand and sales enablement strategies.
-</div>
-
-        <div class="social">
-
-                    <a class="hide-text twitter" target="_blank" href="https://twitter.com/carmenhill">Twitter</a>
-                                                                                          <a class="hide-text linkedin" target="_blank" href="http://www.linkedin.com/in/carmenhillpdx">Linkedin</a>
-          
-          
-          
-          
-          
-          
-          
-          
-          
-
-        </div>
-
-      </li>
-            <li class="four columns">
+            <li class="five columns">
 
         
         <span class="img-wrap">
