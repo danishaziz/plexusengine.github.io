@@ -4,4 +4,4 @@ layout: default
 
 <img src="/images/404.jpg">
 <br>
-<p>We're sorry but we couldn't find that page</p>
+<p>We're sorry but we couldn't find that page!</p>

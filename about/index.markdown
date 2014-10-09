@@ -20,4 +20,4 @@ tags: []
 comments: []
 ---
 <p>Little Bird offers technologies and services to help our customers grow their knowledge, influence, and business in today’s complex and noisy social world. Whether you're looking to quickly understand who to connect with in topics that vary as widely as data science or ceramics, engage with the thought leaders in neuroscience or digital story-telling, or monitor the entire field of web comics or astronauts, Little Bird is ready. We're a small team based in Portland, Oregon, and are expanding quickly thanks to strong investment, prominent recognition, and a growing customer base.</p>
-<h3><a title="Work with Us" href="http://getlittlebird.com/about/work/">Work with Us</a></h3>
+<h3><a title="Work with Us" href="http://getlittlebird.com/about/work/">Work with Us  </a></h3>
