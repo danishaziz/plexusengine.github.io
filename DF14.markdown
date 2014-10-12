@@ -2,4 +2,6 @@
 layout: default
 ---
 
-<meta http-equiv="refresh" content="0; url=http://getlittlebird.hs-sites.com/dreamforce14-free-analysis" />
+<script type="text/javascript">
+  window.location.href = "http://getlittlebird.hs-sites.com/dreamforce14-free-analysis"
+</script>
