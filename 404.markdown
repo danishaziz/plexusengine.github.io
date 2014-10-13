@@ -1,7 +1,15 @@
 ---
 layout: default
+title: 'Uh oh, 404 Error. The Little Birds are on it.'
 ---
+<p>&nbsp;</p>
+<h5>oh.</h5>
+<h1>OH.</h1>
+<img alt="Hey buddy" src="images/404.gif" style="float:right; width:400px;" />
+<p>Sorry, we were um... we were just doing something over here.</p> 
 
-<img src="/images/404.jpg">
-<br>
-<p>We're sorry but we couldn't find that page!</p>
+<p>This is a 404 page; the page you were looking for couldn’t be found.</p>
+
+<h5><a href="window.history.back();">&larr; Why don’t you head on back from whence you came.</a></h5>
+
+<p style="font-size:10.5px; color:#ccc; margin-top:75px;">Please don’t tell anyone you saw this.</p>
