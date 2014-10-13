@@ -5,7 +5,7 @@ title: 'Uh oh, 404 Error. The Little Birds are on it.'
 <p>&nbsp;</p>
 <h5>oh.</h5>
 <h1>OH.</h1>
-<img alt="Hey buddy" src="images/404.gif" style="float:right; width:400px;" />
+<img alt="Hey buddy" src="/images/404.gif" style="float:right; width:400px;" />
 <p>Sorry, we were um... we were just doing something over here.</p> 
 
 <p>This is a 404 page; the page you were looking for couldn’t be found.</p>
