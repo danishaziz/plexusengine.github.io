@@ -32,7 +32,7 @@ comments: []
   <img alt="Dreamforce14 Analysis Slideshare" src="http://www.getlittlebird.com/wp-content/uploads/2014/10/img_slideshare2.png" />
 </p>
 
-<p>Here's <a href="#">Matt's post about the top 50 influencers at the event</a> - as measured by connection to their peers online.  These are the most-listened-to members of the Dreamforce community - by other members of the Dreamforce community.</p>
+<p>Here's <a href="http://www.heinzmarketing.com/2014/10/50influentialdreamforce/">Matt's post about the top 50 influencers at the event</a> - as measured by connection to their peers online.  These are the most-listened-to members of the Dreamforce community - by other members of the Dreamforce community.</p>
 
 
 <!--begin form-->
